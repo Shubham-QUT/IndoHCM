@@ -1,0 +1,6 @@
+,approach_widths,Exclusive_right_turning_Lanes,right_turning_width,right_turn_obstruction,Exclusive_right_turn_phase,Bus_bays,distance_of_Bus_stops_from_stopline,Average_Bus_Blockage_Time,Peak_hour_volume,PHF,Number_of_buses_stopping,Distance_of_bus_stops,Presence_of_flare,Presence_of_anticipation,surge_duration,surge_ratio,Initial_Queue_Length,Minimum_Phase_Time,effective_g_int,Yellow,All_Red_Time
+Approach1,7.5,0,0,True,0,True,75,15,1600,0.89,12,60,True,True,5,1.15,0,20,20,3,2
+Approach2,7.5,0,0,False ,0,False ,80,15,1800,0.9,1,50,False ,False ,5,1.15,0,20,20,3,2
+Approach3,7.5,0,0,False ,0,False ,87,15,2100,0.75,12,45,False ,False ,5,1.15,0,20,20,3,2
+Approach4,7.5,0,0,False ,0,False ,90,15,2200,0.91,10,55,False ,False ,5,1.15,0,20,20,3,2
+Approach5,7.5,0,0,False ,0,False ,91,15,800,0.92,12,21,False ,False ,5,1.15,0,20,20,3,2
